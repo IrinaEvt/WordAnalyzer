@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0ed60fa-ad46-4a9a-9b14-bd1fc3e57993": {
+      "ProjectGuid": "e0ed60fa-ad46-4a9a-9b14-bd1fc3e57993",
+      "DisplayName": "WordAnalyzer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fspFM5ljvAMs+7zc4RnaD+7AcvoeALFB6Wr0F9sVhOQJPmPA7noTExxNy5McEsY8FF2Cvu8in7LZOqNTneZAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irrae\\source\\repos\\WordAnalyzer\\ThreadedVersion\\WordAnalyzer\\WordAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irrae\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\irrae\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\irrae\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\irrae\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\irrae\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\irrae\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
